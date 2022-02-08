@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SupermarketConsole/1.0.0": {
+        "dependencies": {
+          "MarketLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SupermarketConsole.dll": {}
+        }
+      },
+      "MarketLibrary/1.0.0": {
+        "runtime": {
+          "MarketLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SupermarketConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
